@@ -1,0 +1,62 @@
+    1  cd d:
+    2  git --version 
+    3  git clone https://github.com/SrikanthBVG/Test1-for-session.git
+    4  pwd
+    5  git status
+    6  mkdir sample
+    7  pwd
+    8  cd sample/
+    9  git init
+   10  git status
+   11  cd /
+   12  pwd
+   13  cd cd C:users
+   14  cd c/Users/user1/Test1-for-session/
+   15  git status
+   16  cd ..
+   17  cd sample/
+   18  git push
+   19  git remote add https://github.com/SrikanthBVG
+   20  git remote add origin https://github.com/SrikanthBVG
+   21  git push
+   22  git push --set-upstream origin master
+   23  git push origin master --force
+   24  git fetch origin/master
+   25  git remote -v
+   26  git rebase origin/master
+   27  git remote add origin https://github.com/SrikanthBVG/bvg
+   28  git remote add sss https://github.com/SrikanthBVG/bvg
+   29  git remote -v
+   30  git push 
+   31  git push --set-upstream sss master
+   32  cd ..
+   33  cd Test1-for-session/
+   34  touch sample.txt
+   35  git status
+   36  git add sample.txt 
+   37  git status 
+   38  git rm --cached sample.txt 
+   39  git status 
+   40  git add sample.txt 
+   41  git status 
+   42  git commit 
+   43  git config user.name
+   44  git config user.name "sri"
+   45  git config user.name
+   46  git config user.email "buddavarapu.srikanth@gmail.com"
+   47  git config user.email
+   48  git commit
+   49  git commit
+   50  git status
+   51  git add sample.txt 
+   52  git commit 
+   53  git status
+   54  git commit
+   55  git commit -m "second commit"
+   56  git log
+   57  git reflog
+   58  git push
+   59  git status
+   60  git history.txt
+   61  history
+   62  history > commands.txt
